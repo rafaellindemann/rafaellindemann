@@ -22,6 +22,10 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaellindemann&show_icons=true&theme=dark)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellindemann&layout=compact&langs_count=16&theme=dark)
+
+
+
 ## Projetos Destacados
 
 - [arkBattle](https://github.com/rafaellindemann/arkBattle): Jogo estilo Trunfo desenvolvido para praticar frontend.
