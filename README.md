@@ -26,11 +26,11 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 
 
-## Projetos Destacados
-
+## Projetos/repos Destacados
+- [progHub.com.br](proghub.com.br): App web com um compiladão de recursos úteis e confiáveis para quem está aprendendo a desenvolver ([Repositório](https://github.com/rafaellindemann/rafaellindemann.github.io)).
 - [arkBattle](https://github.com/rafaellindemann/arkBattle): Jogo estilo Trunfo desenvolvido para praticar frontend.
-- [Aulas atuais](https://github.com/rafaellindemann/2023_2_arquivosDeAula): Repositório das aulas ministradas neste semestre.
-
+- [Aulas atuais](https://github.com/rafaellindemann/2023_2_arquivosDeAula): Repositório das aulas ministradas neste semestre, normalmente arquivos temporários ou de teste.
+- [Materiais permanentes](https://github.com/rafaellindemann/materiaisDeAula-permanente): Materiais didáticos, testes ou demonstrações  desenvolvidos para as aulas e que não tem prazo de validade :D
 ## Minhas Contribuições
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rafaellindemann&theme=dark)
