@@ -30,10 +30,10 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 ## Projetos/repos Destacados
 - [🫂🎁progHub.com.br🧞📎](https://www.proghub.com.br/): App web com um compiladão de recursos úteis e confiáveis para quem está aprendendo a desenvolver ([Repositório aqui](https://github.com/rafaellindemann/rafaellindemann.github.io)).
-- [🏆🏅oPlacar](http://proghub.com.br/oPlacar/): Projeto desenvolvido em conjunto com os alunos da primeira fase do Curso Técnico em Desenvolvimento de Sistemas do SENAI em São José/SC. Esta delicinha chegou até a vencer o torneio de Situações de Aprendizagem e virou livro. ([Repositório aqui](https://github.com/rafaellindemann/oPlacar)).
-- [🦕🦖arkBattle](http://proghub.com.br/arkBattle/): Jogo estilo Trunfo desenvolvido para praticar grid layout e alguns pormenores de CSS. ([Repositório aqui](https://github.com/rafaellindemann/arkBattle)).
 - [📝⏳Aulas atuais](https://github.com/rafaellindemann/2024_1_arquivosDeAula): Repositório das aulas ministradas neste semestre, normalmente arquivos temporários ou de teste.
 - [📖📍Materiais permanentes](https://github.com/rafaellindemann/materiaisDeAula-permanente): Materiais didáticos, testes ou demonstrações  desenvolvidos para as aulas e que não tem prazo de validade :D
+- [🏆🏅oPlacar](http://proghub.com.br/oPlacar/): Projeto desenvolvido em conjunto com os alunos da primeira fase do Curso Técnico em Desenvolvimento de Sistemas do SENAI em São José/SC. Esta delicinha chegou até a vencer o torneio de Situações de Aprendizagem e virou livro. ([Repositório aqui](https://github.com/rafaellindemann/oPlacar)).
+- [🦕🦖arkBattle](http://proghub.com.br/arkBattle/): Jogo estilo Trunfo desenvolvido para praticar grid layout e alguns pormenores de CSS. ([Repositório aqui](https://github.com/rafaellindemann/arkBattle)).
 ## Minhas Contribuições
 
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rafaellindemann&theme=dark)
