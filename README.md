@@ -1,5 +1,5 @@
 # Olá! Eu sou o professor Rafael Lindemann
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Olá!;Temos+coisas+legais+aqui+:%29;Fique+à+vontade)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Olá!;Temos+coisas+legais+aqui+:%29;Fique+à+vontade+para+conferir+e+contribuir)](https://git.io/typing-svg)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-lindemann-duarte-59437867/)](https://www.linkedin.com/in/rafael-lindemann-duarte-59437867/)
 [![GitHub followers](https://img.shields.io/github/followers/rafaellindemann?label=Follow&style=social)](https://github.com/rafaellindemann)
