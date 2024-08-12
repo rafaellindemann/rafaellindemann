@@ -14,12 +14,13 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![NODE JS](https://img.shields.io/badge/-NodeJS-2C682C?style=flat-square&logo=node&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00599C?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![LEGO EV3](https://img.shields.io/badge/-LEGO%20EV3-00A4EF?style=flat-square&logo=lego&logoColor=white)
-![NODE JS](https://img.shields.io/badge/-NodeJS-2C682C?style=flat-square&logo=node&logoColor=black)
 
 ## Estatísticas do Meu Perfil
 
