@@ -19,6 +19,7 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![LEGO EV3](https://img.shields.io/badge/-LEGO%20EV3-00A4EF?style=flat-square&logo=lego&logoColor=white)
+![NODE JS](https://img.shields.io/badge/-NodeJS-2C682C?style=flat-square&logo=node&logoColor=black)
 
 ## Estatísticas do Meu Perfil
 
