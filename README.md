@@ -46,6 +46,13 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/rafaellindemann/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
 <!-- - LinkedIn: [rafael-lindemann-duarte-59437867](https://www.linkedin.com/in/rafael-lindemann-duarte-59437867e/) -->
 <!-- - Email: seuemail@example.com -->
 
