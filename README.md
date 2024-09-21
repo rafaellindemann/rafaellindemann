@@ -46,12 +46,16 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
 
-<p align="center">
+## Back to the future
+<div align="center">
+<p>Se isto fosse um site dos anos 90 você veria um contador de visitantes parecido com este aqui:</p>
   <img
     src="https://profile-counter.glitch.me/rafaellindemann/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
-</p>
+  <p>E um gif horroroso como esse:</p>
+  <img src="underConstruction.gif" width="100">
+</div>
 
 <!-- - LinkedIn: [rafael-lindemann-duarte-59437867](https://www.linkedin.com/in/rafael-lindemann-duarte-59437867e/) -->
 <!-- - Email: seuemail@example.com -->
