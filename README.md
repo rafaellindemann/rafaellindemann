@@ -46,7 +46,7 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
 
-## Back to the future
+## Bônus aleatório e sem contexto
 <div align="center">
 <p>Se isto fosse um site dos anos 90 você veria um contador de visitantes parecido com este aqui:</p>
   <img
