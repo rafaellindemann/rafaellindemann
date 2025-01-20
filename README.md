@@ -32,7 +32,7 @@ Aprendendo e ensinando e seguindo a canção... 🎸
 
 ## Projetos/repos Destacados
 - [🧡🎁progHub.com.br🎁🧡](https://www.proghub.com.br/): App web com um compiladão de recursos úteis e confiáveis para quem está aprendendo a desenvolver ([Repositório aqui](https://github.com/rafaellindemann/rafaellindemann.github.io)).
-- [📝⏳Aulas atuais](https://github.com/rafaellindemann/2024_2_arquivosDeAula): Repositório das aulas ministradas neste semestre, normalmente arquivos temporários ou de teste.
+- [📝⏳Aulas atuais](https://github.com/rafaellindemann/2025_1_arquivosDeAula): Repositório das aulas ministradas neste semestre, normalmente arquivos temporários ou de teste.
 - [📖📍Materiais permanentes](https://github.com/rafaellindemann/materiaisDeAula-permanente): Materiais didáticos, testes ou demonstrações  desenvolvidos para as aulas e que não tem prazo de validade :D
 - [🔠🔤Tranca Letras pt-br](https://tranca-letra-pt-br.vercel.app/): Jogo baseado no game chamado Trava Letras, desenvolvido para praticar UI com ReactJS ([Repositório aqui](https://github.com/rafaellindemann/tranca-letra-pt-br)).
 - [🔠🔤Forca](https://www.proghub.com.br/hangman/): Mais um projeto playground com a clássica forca, desenvolvido para praticar UI com ReactJS ([Repositório aqui](https://github.com/rafaellindemann/hangman)).
